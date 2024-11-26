@@ -1,0 +1,13 @@
+.documents-page {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  
+  .pdf-list {
+    width: 20%;
+  }
+  
+  .pdf-viewer {
+    width: 80%;
+  }
